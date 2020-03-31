@@ -204,6 +204,4 @@
 
 2019-07-29T13:46:59Z	[public-apis/public-apis](https://github.com/public-apis/public-apis)
 
-2019-05-20T09:35:16Z	[jwasham/coding-interview-university[](https://github.com/jwasham/coding-interview-university)
-
-
+2019-05-20T09:35:16Z	[jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
