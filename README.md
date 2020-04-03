@@ -23,9 +23,19 @@
 
 ## Front End
 * [You might not need jQuery](http://youmightnotneedjquery.com/)
+* [Codepen](https://codepen.io/) - The best place to build, test, and discover front-end code.
+* [Dribbble](https://dribbble.com/) - Discover the world’s top designers & creatives
+* [WOW.js](https://github.com/matthieua/WOW) - Reveal CSS animation as you scroll down a page
+* [Animate.css](https://github.com/daneden/animate.css)
+* [BoxIcons](https://boxicons.com/) - High Quality Web Icons Set 
 
 ## CSS resources
+* [colors.lol](https://colors.lol/) -  Overly descriptive color palettes. 
+* [CoolBackgrounds.io](https://coolbackgrounds.io/)
+* 
 
+## Templates
+* [bootstrapmade](https://bootstrapmade.com/) - Free Bootstrap Templates
 
 ***
 
