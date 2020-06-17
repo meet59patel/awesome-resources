@@ -18,6 +18,8 @@
 * [WesBos Tips & Tricks](https://mobile.twitter.com/wesbos/timelines/1189618481672667136) - mainly CSS and JavaScript tricks
 * [Tania Rascia](https://www.taniarascia.com/)
 * [Object Oriented Programming](https://medium.com/from-the-scratch/oop-everything-you-need-to-know-about-object-oriented-programming-aee3c18e281b) - OOP: Everything you need to know about Object Oriented Programming | Medium Article
+* [The 30 CSS Selectors You Must Memorize](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
+* [Nick Janetakis](https://nickjanetakis.com/blog) - Shell, Docker, Flask
 
 ***
 
@@ -32,7 +34,15 @@
 ## CSS resources
 * [colors.lol](https://colors.lol/) -  Overly descriptive color palettes. 
 * [CoolBackgrounds.io](https://coolbackgrounds.io/)
-* 
+* [CSS Color names](https://colours.neilorangepeel.com/)
+* [Colorsinspo](https://colorsinspo.com/) - Color Palettes
+* [Simple Icons](https://simpleicons.org/) - Free SVG icons for popular brands
+* [FreeCodeCamp - Flexbox - The Ultimate CSS Flex Cheatsheet (with animated diagrams!)](https://www.freecodecamp.org/news/flexbox-the-ultimate-css-flex-cheatsheet/)
+
+## Images
+* [Pexels](https://www.pexels.com/) - Free stock images
+* [Unsplash](https://www.pexels.com/)
+* [unDraw](https://undraw.co/illustrations) - Free SVG images (illustrations)
 
 ## Templates
 * [bootstrapmade](https://bootstrapmade.com/) - Free Bootstrap Templates
@@ -59,6 +69,9 @@
 * [Linux Survival](https://linuxsurvival.com/linux-tutorial-introduction/) - Linux Survival is a free tutorial designed to make it as easy as possible to learn Linux
 * [LinuxCommand.org](http://linuxcommand.org/)
 * [Linux Academy](https://linuxacademy.com/) - Paid Subscription
+
+## Network Theory
+* [Network Basics](https://www.youtube.com/playlist?list=PLR0bgGon_WTKY2irHaG_lNRZTrA7gAaCj) - YouTube Playlist
 
 ***
 
