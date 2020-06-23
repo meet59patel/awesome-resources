@@ -46,6 +46,7 @@
 
 ## Templates
 * [bootstrapmade](https://bootstrapmade.com/) - Free Bootstrap Templates
+* [bootswatch](https://bootswatch.com/) - Free Bootstrap Templates
 
 ***
 
