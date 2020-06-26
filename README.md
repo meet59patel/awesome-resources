@@ -54,6 +54,7 @@
 * [CSS Reference](https://cssreference.io/)
 * [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/)
 * [MarkDown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [Explain Shell command and arguments by parts](https://explainshell.com/)
 
 ***
 
