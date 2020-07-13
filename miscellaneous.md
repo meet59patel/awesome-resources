@@ -1,8 +1,8 @@
 # General Useful Resources
 
 * [nand2tetris](https://www.nand2tetris.org/)
-* [Libhunt](https://www.libhunt.com/) - Find and compare new libraries 
-* [Libhunt - NodeJS](https://nodejs.libhunt.com/) - A curated list of delightful Node.js modules and resources, find alternative modules
+* [LibHunt](https://www.libhunt.com/) - Find and compare new libraries 
+* [LibHunt - NodeJS](https://nodejs.libhunt.com/) - A curated list of delightful Node.js modules and resources, find alternative modules
 
 ***
 
