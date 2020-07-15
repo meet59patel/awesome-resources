@@ -84,3 +84,4 @@ The awards of design, creativity and innovation on the internet
 * [jsvault](https://jsvault.com/) - A collection of tricky JS interview questions
 * [RegEx Quick Start](https://www.rexegg.com/regex-quickstart.html) - quick Regular Expressions Guide
 * [Shields.io](https://shields.io/) - Badges for your GitHub repository
+* [gitignore.io](https://www.toptal.com/developers/gitignore) - (Similar option: [github.com/github/gitignore](https://github.com/github/gitignore))
