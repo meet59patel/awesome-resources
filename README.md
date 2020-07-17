@@ -1,6 +1,10 @@
 # Developer Resources
 ### Resources, Bookmarks and Stars of the Web!
 
+[![GitHub stars](https://img.shields.io/github/stars/meet59patel/awesome-resources?style=for-the-badge)](https://github.com/meet59patel/awesome-resources/stargazers)
+[![GitHub license](https://img.shields.io/github/license/meet59patel/awesome-resources?style=for-the-badge)](https://github.com/meet59patel/awesome-resources/blob/master/LICENSE)
+![GitHub last commit](https://img.shields.io/github/last-commit/meet59patel/awesome-resources?style=for-the-badge)
+
 ## Directory
 * [Home](https://github.com/meet59patel/awesome-resources#developer-resources)
     * [Tutorials](https://github.com/meet59patel/awesome-resources#tutorials)
