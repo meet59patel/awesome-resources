@@ -1,6 +1,25 @@
 # Developer Resources
 ### Resources, Bookmarks and Stars of the Web!
 
+## Directory
+* [Home](https://github.com/meet59patel/awesome-resources#developer-resources)
+    * [Tutorials](https://github.com/meet59patel/awesome-resources#tutorials)
+    * [Blogs & Articles](https://github.com/meet59patel/awesome-resources#blogs--articles)
+    * [Front End](https://github.com/meet59patel/awesome-resources#front-end)
+    * [CSS Resources](https://github.com/meet59patel/awesome-resources#css-resources)
+    * [Images](https://github.com/meet59patel/awesome-resources#images)
+    * [Templates](https://github.com/meet59patel/awesome-resources#templates)
+    * [CheatSheets](https://github.com/meet59patel/awesome-resources#cheatsheets)
+    * [Linux](https://github.com/meet59patel/awesome-resources#linux)
+    * [Miscellaneous](https://github.com/meet59patel/awesome-resources#miscellaneous)
+* [Awesome lists | GitHub](https://github.com/meet59patel/awesome-resources/blob/master/AWESOME.md#awesome-lists--github)
+* [Stars](https://github.com/meet59patel/awesome-resources/blob/master/stars.md) - GitHub Stars of meet59patel
+* [Miscellaneous](https://github.com/meet59patel/awesome-resources/blob/master/miscellaneous.md#general-useful-resources)
+    * [Site Generators](https://github.com/meet59patel/awesome-resources/blob/master/miscellaneous.md#site-generators)
+    * [YouTube Channels](https://github.com/meet59patel/awesome-resources/blob/master/miscellaneous.md#youtube-channels)
+
+***
+
 ## Tutorials
 * [Mozilla MDN](https://developer.mozilla.org/en-US/)
 * [The Odin Project](https://www.theodinproject.com/)
@@ -80,3 +99,8 @@ The awards of design, creativity and innovation on the internet
 * [RegEx Quick Start](https://www.rexegg.com/regex-quickstart.html) - quick Regular Expressions Guide
 * [Shields.io](https://shields.io/) - Badges for your GitHub repository
 * [gitignore.io](https://www.toptal.com/developers/gitignore) - (Similar option: [github.com/github/gitignore](https://github.com/github/gitignore))
+
+
+## License
+
+This project is licensed under the MIT License - Copyright (c) 2020 Meet Patel
