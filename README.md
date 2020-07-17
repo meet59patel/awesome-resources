@@ -47,6 +47,7 @@
 ## Templates
 * [bootstrapmade](https://bootstrapmade.com/) - Free Bootstrap Templates
 * [bootswatch](https://bootswatch.com/) - Free Bootstrap Templates
+* [README.md Template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) -  A template to make good README for your project
 
 ***
 
@@ -55,12 +56,6 @@
 * [Modern JS Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/)
 * [MarkDown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [Explain Shell command and arguments by parts](https://explainshell.com/)
-
-***
-
-## YouTube Channels
-* [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA)
-* [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
 
 ***
 
