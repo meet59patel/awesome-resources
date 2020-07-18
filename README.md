@@ -1,5 +1,7 @@
+![Logo](https://user-images.githubusercontent.com/45785817/87845421-cddaf900-c8e4-11ea-928f-ee0578b2c499.png)
+
 # Developer Resources
-### Resources, Bookmarks and Stars of the Web!
+### Awesome Resources, Bookmarks, Websites and Stars of the Web!
 
 [![GitHub stars](https://img.shields.io/github/stars/meet59patel/awesome-resources?style=for-the-badge)](https://github.com/meet59patel/awesome-resources/stargazers)
 [![GitHub license](https://img.shields.io/github/license/meet59patel/awesome-resources?style=for-the-badge)](https://github.com/meet59patel/awesome-resources/blob/master/LICENSE)
