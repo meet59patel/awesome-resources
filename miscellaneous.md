@@ -3,6 +3,7 @@
 * [nand2tetris](https://www.nand2tetris.org/)
 * [LibHunt](https://www.libhunt.com/) - Find and compare new libraries 
 * [LibHunt - NodeJS](https://nodejs.libhunt.com/) - A curated list of delightful Node.js modules and resources, find alternative modules
+* [Debuggex](https://www.debuggex.com/) - Debug Regular Expressions graphically
 
 ***
 
