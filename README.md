@@ -55,6 +55,7 @@
 * [WOW.js](https://github.com/matthieua/WOW) - Reveal CSS animation as you scroll down a page
 * [Animate.css](https://github.com/daneden/animate.css)
 * [BoxIcons](https://boxicons.com/) - High Quality Web Icons Set 
+* [bundlephobia](https://bundlephobia.com/) - find the cost of adding a npm package to your bundle
 
 ## CSS resources
 * [colors.lol](https://colors.lol/) -  Overly descriptive color palettes. 
@@ -68,6 +69,7 @@
 * [Pexels](https://www.pexels.com/) - Free stock images
 * [Unsplash](https://www.pexels.com/)
 * [unDraw](https://undraw.co/illustrations) - Free SVG images (illustrations)
+* [Lorem Picsum](https://picsum.photos/) - The Lorem Ipsum for photos
 
 ## Templates
 * [bootstrapmade](https://bootstrapmade.com/) - Free Bootstrap Templates
