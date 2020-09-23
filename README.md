@@ -46,6 +46,7 @@
 * [Object Oriented Programming](https://medium.com/from-the-scratch/oop-everything-you-need-to-know-about-object-oriented-programming-aee3c18e281b) - OOP: Everything you need to know about Object Oriented Programming | Medium Article
 * [The 30 CSS Selectors You Must Memorize](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 * [Nick Janetakis](https://nickjanetakis.com/blog) - Shell, Docker, Flask
+* [ncona](https://ncona.com/) - Great general software dev blog - From C++ to DevOps
 
 ***
 
