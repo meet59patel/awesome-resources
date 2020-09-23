@@ -27,6 +27,7 @@
 ***
 
 ## Tutorials
+* [JavaScript30](https://javascript30.com/) - Build 30 things in 30 days with 30 tutorials using Vanilla JS
 * [Mozilla MDN](https://developer.mozilla.org/en-US/)
 * [The Odin Project](https://www.theodinproject.com/)
 * [JavaScript in 14 minutes](https://jgthms.com/javascript-in-14-minutes/) by Jeremy Thomas - creator of Bulma.io
