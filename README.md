@@ -20,6 +20,7 @@
     * [Miscellaneous](https://github.com/meet59patel/awesome-resources#miscellaneous)
 * [Awesome lists | GitHub](https://github.com/meet59patel/awesome-resources/blob/master/AWESOME.md#awesome-lists--github)
 * [Stars](https://github.com/meet59patel/awesome-resources/blob/master/stars.md) - GitHub Stars of meet59patel
+* [SaaS](https://github.com/meet59patel/awesome-resources/blob/master/saas.md) - Useful Softwares as a Service list
 * [Miscellaneous](https://github.com/meet59patel/awesome-resources/blob/master/miscellaneous.md#general-useful-resources)
     * [Site Generators](https://github.com/meet59patel/awesome-resources/blob/master/miscellaneous.md#site-generators)
     * [YouTube Channels](https://github.com/meet59patel/awesome-resources/blob/master/miscellaneous.md#youtube-channels)
@@ -109,6 +110,7 @@ The awards of design, creativity and innovation on the internet
 * [RegEx Quick Start](https://www.rexegg.com/regex-quickstart.html) - quick Regular Expressions Guide
 * [Shields.io](https://shields.io/) - Badges for your GitHub repository
 * [gitignore.io](https://www.toptal.com/developers/gitignore) - (Similar option: [github.com/github/gitignore](https://github.com/github/gitignore))
+* [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) - Etiquettes for git commit messages
 
 
 ## License
