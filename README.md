@@ -10,6 +10,7 @@
 ## Directory
 * [Home](https://github.com/meet59patel/awesome-resources#developer-resources)
     * [Tutorials](https://github.com/meet59patel/awesome-resources#tutorials)
+    * [Docs](https://github.com/meet59patel/awesome-resources#Docs)
     * [Blogs & Articles](https://github.com/meet59patel/awesome-resources#blogs--articles)
     * [Front End](https://github.com/meet59patel/awesome-resources#front-end)
     * [CSS Resources](https://github.com/meet59patel/awesome-resources#css-resources)
@@ -18,9 +19,10 @@
     * [CheatSheets](https://github.com/meet59patel/awesome-resources#cheatsheets)
     * [Linux](https://github.com/meet59patel/awesome-resources#linux)
     * [Miscellaneous](https://github.com/meet59patel/awesome-resources#miscellaneous)
-* [Awesome lists | GitHub](https://github.com/meet59patel/awesome-resources/blob/master/AWESOME.md#awesome-lists--github)
+* [Design Resources](https://github.com/meet59patel/awesome-resources/blob/master/design-resources.md)
 * [Stars](https://github.com/meet59patel/awesome-resources/blob/master/stars.md) - GitHub Stars of meet59patel
 * [SaaS](https://github.com/meet59patel/awesome-resources/blob/master/saas.md) - Useful Softwares as a Service list
+* [Awesome lists | GitHub](https://github.com/meet59patel/awesome-resources/blob/master/AWESOME.md#awesome-lists--github)
 * [Miscellaneous](https://github.com/meet59patel/awesome-resources/blob/master/miscellaneous.md#general-useful-resources)
     * [Site Generators](https://github.com/meet59patel/awesome-resources/blob/master/miscellaneous.md#site-generators)
     * [YouTube Channels](https://github.com/meet59patel/awesome-resources/blob/master/miscellaneous.md#youtube-channels)
@@ -39,6 +41,12 @@
 
 ***
 
+## Docs
+- [DevDocs](https://devdocs.io/) - Fast, offline, and free documentation browser for developers
+
+
+***
+
 ## Blogs & Articles
 * [FreeCodeCamp /news](https://www.freecodecamp.org/news/)
 * [Zero Equals False](https://zeroequalsfalse.com)
@@ -52,6 +60,7 @@
 ***
 
 ## Front End
+* [Free Frontend](https://freefrontend.com/) - Free frontend resources collection
 * [You might not need jQuery](http://youmightnotneedjquery.com/)
 * [Codepen](https://codepen.io/) - The best place to build, test, and discover front-end code.
 * [Dribbble](https://dribbble.com/) - Discover the world’s top designers & creatives
