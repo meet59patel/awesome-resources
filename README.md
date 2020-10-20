@@ -77,6 +77,11 @@
 * [Simple Icons](https://simpleicons.org/) - Free SVG icons for popular brands
 * [FreeCodeCamp - Flexbox - The Ultimate CSS Flex Cheatsheet (with animated diagrams!)](https://www.freecodecamp.org/news/flexbox-the-ultimate-css-flex-cheatsheet/)
 
+#### UI Libraries | CSS Frameworks
+* [Bootstrap](https://getbootstrap.com/)
+* [Semantic UI](https://semantic-ui.com/)
+* [Material Design Lite](https://getmdl.io/)
+
 ## Images
 * [Pexels](https://www.pexels.com/) - Free stock images
 * [Unsplash](https://www.pexels.com/)
@@ -87,6 +92,7 @@
 * [bootstrapmade](https://bootstrapmade.com/) - Free Bootstrap Templates
 * [bootswatch](https://bootswatch.com/) - Free Bootstrap Templates
 * [README.md Template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) -  A template to make good README for your project
+* [smooth Doc](https://smooth-doc.com/) - A ready-to-use Gatsby theme to build docs for all your projects
 
 ***
 
