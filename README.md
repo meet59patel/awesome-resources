@@ -118,6 +118,7 @@
 ***
 
 ## Miscellaneous
+* [free-for.dev](https://free-for.dev) - list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
 * [Awesome Lists](https://github.com/topics/awesome) - GitHub
 * [awwwards](https://www.awwwards.com/) - 
 The awards of design, creativity and innovation on the internet
