@@ -68,6 +68,8 @@
 * [Animate.css](https://github.com/daneden/animate.css)
 * [BoxIcons](https://boxicons.com/) - High Quality Web Icons Set 
 * [bundlephobia](https://bundlephobia.com/) - find the cost of adding a npm package to your bundle
+* **JavaScript Templating Engines**
+    * [Mustache](https://mustache.github.io/), [Handlebars](http://handlebarsjs.com/), [doT](https://olado.github.io/doT/), [EJS](http://ejs.co/), [Nunjucks](https://mozilla.github.io/nunjucks/), [Underscore](http://underscorejs.org/), [Pug](https://pugjs.org/), [Webix](https://webix.com/), [Hogan](https://twitter.github.io/hogan.js/), [Swig](https://node-swig.github.io/swig-templates/), [Marko](https://markojs.com/), [Jade Language](http://jade-lang.com/), [JsRender](https://www.jsviews.com/#jsrender), [Squirrelly](https://squirrelly.js.org/), [jQuery Templating](https://codepb.github.io/jquery-template/), [ECT](http://ectjs.com/), [Template7](http://www.idangero.us/template7/)
 
 ## CSS resources
 * [colors.lol](https://colors.lol/) -  Overly descriptive color palettes. 
