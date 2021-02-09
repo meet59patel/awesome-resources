@@ -2,6 +2,7 @@
 
 - [100 Daily UI](https://100dailyui.webflow.io) - Free 100 Daily UI Challenge Library
 - [Icons 8](https://icons8.com/) - Free Icons, Photos, Vectors, Music, and Tools
+- [Iconduck](https://iconduck.com/) - free open source icons & illustrations
 - [UpLabs](https://www.uplabs.com/) - UI Kits, Icons, Templates, Themes and More
 - [paaatterns](https://products.ls.graphics/paaatterns/) - Free collection of beautiful patterns for all vector formats
 - [humaaans](https://humaaans.com/) - Mix-&-match illustrations of people with a design library
