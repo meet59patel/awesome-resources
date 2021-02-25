@@ -15,3 +15,4 @@
 Find free to use illustrations
 - [IRA Design](https://iradesign.io/) - Using our awesome gradients and hand drawn sketch components *by Creative Tim*
 - [Open Doodles](https://www.opendoodles.com/) - Free sketchy illustrations
+- [SVG Repo](https://www.svgrepo.com/) - 300.000+ SVG Vectors and Icons
